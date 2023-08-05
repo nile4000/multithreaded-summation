@@ -14,8 +14,14 @@ Die Summation jeder Zahlenreihe erfolgt in einer Worker-Thread-Datei (worker.js)
 
 ## Technologien
 
-Node.js
-Worker_threads Modul in Node.js (https://nodejs.org/api/worker_threads.html)
+- Node.js
+- Worker_threads Modul in Node.js (https://nodejs.org/api/worker_threads.html)
+
+## Support
+Bei Fragen oder Problemen wenden Sie sich bitte an nile4000.
+
+## Lizenz
+Dieses Projekt ist unter der MIT-Lizenz lizenziert.
 
 ## Start
 
