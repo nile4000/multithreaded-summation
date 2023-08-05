@@ -22,3 +22,9 @@ Worker_threads Modul in Node.js (https://nodejs.org/api/worker_threads.html)
 1. Installieren Sie Node.js auf Ihrem System (https://nodejs.org/en/download/)
 2. Klonen Sie dieses Repository auf Ihren lokalen Computer
 3. Navigieren Sie in Ihrem Terminal in das Projektverzeichnis und führen Sie `node .` aus.
+
+## Support
+Bei Fragen oder Problemen wenden Sie sich bitte an nile4000.
+
+## Lizenz
+Dieses Projekt ist unter der MIT-Lizenz lizenziert.
